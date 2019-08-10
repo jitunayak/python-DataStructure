@@ -22,9 +22,6 @@ class stack():
             return self.items[-1]   
 
 # s= stack()
-# s.push(" ")
-# s.push(" ")
-# s.push(" ")
 
 # print(s.getStack())
 # s.pop()
